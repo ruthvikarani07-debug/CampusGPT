@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+campusgpt.sqlite3
+campusgpt.sqlite3-*
+uploads/
+
